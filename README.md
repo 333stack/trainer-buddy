@@ -2,6 +2,8 @@
 
 **Trainer Buddy** is a free, lightweight **desktop pet for Windows 10 and 11**: a retro pixel-art trainer (FireRed/LeafGreen style) walks after your **mouse cursor**, and a **Pokémon companion** walks right behind him. It sits on top of your desktop, never gets in the way of your clicks, and starts with Windows.
 
+![Trainer Buddy: the trainer walks to the mouse cursor with Pikachu following behind](docs/screenshot.png)
+
 **[⬇ Download TrainerBuddy.exe (latest release)](https://github.com/333stack/trainer-buddy/releases/latest)** – one file, no Python or installer needed.
 
 ## Features
